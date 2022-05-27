@@ -4,7 +4,7 @@ Lesson 1: Learn HTML by Building a Cat Photo App
 
 This project is the first lesson in freeCodeCamp's "Responsive Web Design" Course.
 
-In this lesson, I built upon the foundations I've learned (consecutively) with The Odin Project. This includes:
+In this lesson, I built upon the foundations I've learned (concurrently) with The Odin Project. This includes:
 
 - HTML Boilerplate (Layout)
 - !DOCTYPE html
