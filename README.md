@@ -15,6 +15,6 @@ Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-de
 
 5/29/2022
 Lesson 3:
-Source: [freeCodeCamp](hhttps://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-colors-by-building-a-set-of-colored-markers) / 
+Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-colors-by-building-a-set-of-colored-markers) / 
 [My Code](https://github.com/mgearz/freeCodeCamp/tree/main/CSS-Markers)
 
