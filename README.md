@@ -22,3 +22,8 @@ Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-de
 Lesson 4: Learn HTML Forms by Building a Registration Form
 Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form) / 
 [My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Reg-Form)
+
+6/17/22
+Challenge 1: Create an HTML Survey Form (from scratch)
+Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) / 
+[My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Survey-Form)
