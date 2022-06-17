@@ -1,0 +1,79 @@
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 30px auto;
+  background-color: #1b1b32;
+  color: #f5f6f7;
+  font-family: Tahoma;
+  font-size: 16px;
+}
+  
+form {
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 30px auto;
+  padding-bottom: 2em;
+}
+  
+h1, #description {
+  margin: 12px auto;
+  text-align: center;
+}
+  
+h1 {
+  color: #32CD32;
+}
+  
+input,
+textarea,
+select {
+  display: inline;
+  margin: 10px 0 10px 0;
+  width: 100%;
+  min-height: 2em;
+}
+  
+input[type="submit"] {
+  width: 100%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  font-weight: 900;
+  color: #1b1b32;
+  background-color: #32CD32;
+  min-width: 300px;
+}
+  
+fieldset {
+  border: none;
+  background-color: #3b3b4f;
+}
+  
+a {
+  color: #32CD32;
+}
+  
+label {
+  margin: 12px 0;
+}
+  
+em,
+strong {
+  color: #32CD32;
+}
+  
+.inline {
+  width: unset;
+  margin: 0 0.25em 0 1.5em;
+  vertical-align: middle;
+}
+  
+#recommend {
+  text-align: center;
+  margin: 12px 0 0 0;
+}
+  
+#story {
+  text-align: center;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Stories Survey Form</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  
+  <body>
+    <h1 id="title">User Stories Survey</h1>
+    <p id="description">Thank you for taking the time to share your story!</p>
+    <form id="survey-form" action='https://register-demo.freecodecamp.org'>
+      <fieldset>
+        <label id="name-label">Name: <input id="name" type="text" name="name" textarea placeholder="Enter your age" required /></label>
+        <label id="email-label">Email: <input id="email" type="email" name="email"  textarea placeholder="Enter your email"required /></label>
+        <label id="number-label">Age: </em><input id="number" type="number" min="13" max="100" name="number" textarea placeholder="Enter your age" required></label>
+        <label>Which option best describes you?
+          <select id="dropdown" name="referrer">
+            <option value="">(select one)</option>
+            <option value="1">Student</option>
+            <option value="2">Full-Time Job</option>
+            <option value="3">Full-Time Learner</option>
+            <option value="4">Other</option>
+          </select>
+        </label>
+      <fieldset id="recommend">
+        <legend>Would you recommend us to a friend?</legend>
+          <label><input type="radio" name="rec" class="inline" value="def" checked /> Definitely</label>
+          <label><input type="radio" name="rec" class="inline" value="maybe" /> Maybe</label>
+          <label><input type="radio" name="rec" class="inline" value="no" /> Nah</label>
+      </fieldset>
+      <fieldset>
+        <legend>What would you improve?</legend>
+          <label>
+            <input type="checkbox" name="terms" class="inline" value="Accessibility" /> Accessibility</label>
+          <label><br>
+            <input type="checkbox" name="terms" class="inline" value="Ease" /> Ease of Use</label><br>
+          <label>
+            <input type="checkbox" name="terms" class="inline" value="Support" /> Support</label>
+        </fieldset>
+        <fieldset id="story">
+        <label><strong>Story Time!</strong>
+          <textarea name="story" rows="3" cols="30" placeholder="It all began 5 years ago..."></textarea>
+			  </label>
+      </fieldset>
+        <input id="submit" type="submit" value="Submit" />
+    </form>
+  </body>
+
+</html>
