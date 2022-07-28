@@ -27,3 +27,8 @@ Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-de
 Challenge 1: Create an HTML Survey Form (from scratch)
 Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) / 
 [My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Survey-Form)
+
+7/28/22
+Lesson 5: Learn the CSS Box Model by Building a Rothko Painting
+Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-the-css-box-model-by-building-a-rothko-painting) / 
+[My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Rothko-Painting)
