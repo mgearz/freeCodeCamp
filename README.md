@@ -32,3 +32,8 @@ Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-de
 Lesson 5: Learn the CSS Box Model by Building a Rothko Painting
 Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-the-css-box-model-by-building-a-rothko-painting) / 
 [My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Rothko-Painting)
+
+7/29/22
+Lesson 6: Learn CSS Flexbox by Building a Photo Gallery
+Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery) / 
+[My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Photo-Gallery)
