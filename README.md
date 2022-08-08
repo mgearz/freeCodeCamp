@@ -42,3 +42,8 @@ Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-de
 Lesson 7: Learn Typography by Building a Nutrition Label
 Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-typography-by-building-a-nutrition-label) / 
 [My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Nutrition-Label)
+
+8/8/22
+Lesson 8: Learn Accessibility by Building a Quiz
+Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz) / 
+[My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Accessibility-Quiz)
