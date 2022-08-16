@@ -8,3 +8,5 @@ For this project, I needed to build a tribute page for a subject of my choosing.
 I've come a long way already and I think I was able to match the overall layout pretty close to the [desired example](https://tribute-page.freecodecamp.rocks/).
 
 I then customized it further to try and pay homage to Burton's style; integrating a custom tiled background and a [Google font](https://fonts.google.com/specimen/Aboreto?query=Aboreto&category=Serif,Display&preview.text=Tim%20Burton&preview.text_type=custom) that I thought matched pretty well.
+
+See the page live [here](https://mgearz.github.io/freeCodeCamp/Tribute-Page/)
