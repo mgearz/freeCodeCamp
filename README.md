@@ -47,3 +47,9 @@ Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-de
 Lesson 8: Learn Accessibility by Building a Quiz
 Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz) / 
 [My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Accessibility-Quiz)
+
+8/16/22
+Challenge 2: Create a Tribute Page (from scratch)
+Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page) / 
+[My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Tribute-Page) / 
+[Live Preview](https://mgearz.github.io/freeCodeCamp/Tribute-Page/)
