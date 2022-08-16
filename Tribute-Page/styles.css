@@ -1,0 +1,105 @@
+html {
+    display: block;
+    font-size: 10px;
+    background-image: url("Links/Burton-Background-Tile.jpg");
+    background-color: #313030;
+}
+
+h1, h2, h3 {
+    font-family: "Aboreto", serif;
+}
+
+body {
+    font-family: sans-serif;
+    color: #eee;
+    line-height: 1.5;
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    font-size: 4rem;
+    padding-top: 10px;
+    margin-bottom: -2rem;
+}
+
+@media (max-width: 460px) {
+    h1 {
+        font-size: 3.5rem;
+        line-height: 1.2;
+    }
+}
+
+h2 {
+    font-size: 1.6rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+#main {
+    background-color: #434343;
+    max-width: 800px;
+    margin: 25px auto 25px auto;
+    padding-bottom: 10px;
+}
+
+@media (max-width: 460px) {
+    #main {
+        margin: 0;
+    }
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+#img-div {
+    background: #313030;
+    padding: 5px;
+    margin: 10px;
+}
+
+#img-caption {
+    margin: 10px 0 5px 0;
+}
+
+@media (max-width: 460px) {
+    #img-caption {
+        font-size: 1.4rem;
+    }
+}
+
+ul {
+    max-width: 650px;
+    text-align: left;
+    line-height: 1.6;
+    margin: 0 auto 50px auto;
+}
+
+li {
+    margin: 15px 0;
+}
+
+#block-quote {
+    font-style: italic;
+    text-align: left;
+    margin: 0 auto 50px auto;
+    max-width: 400px;
+}
+
+a {
+    color: #b566f2;
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+a:visited {
+    color: #e23576;
+}
