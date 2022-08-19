@@ -68,3 +68,9 @@ Lesson 9: Learn More About CSS Psuedo-Selectors by Building a Balance Sheet
 Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet) / 
 [My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Balance-Sheet) / 
 [Live Preview](https://mgearz.github.io/freeCodeCamp/Balance-Sheet/)
+
+8/19/22
+Lesson 10: Learn Intermediate CSS by Building a Picasso Painting
+Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-picasso-painting) / 
+[My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Picasso-Painting) / 
+[Live Preview](https://mgearz.github.io/freeCodeCamp/Picasso-Painting/)
