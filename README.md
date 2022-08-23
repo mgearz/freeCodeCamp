@@ -74,3 +74,9 @@ Lesson 10: Learn Intermediate CSS by Building a Picasso Painting
 Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-picasso-painting) / 
 [My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Picasso-Painting) / 
 [Live Preview](https://mgearz.github.io/freeCodeCamp/Picasso-Painting/)
+
+8/22/22
+Lesson 11: Learn Responsive Web Design by Building a Piano
+Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-responsive-web-design-by-building-a-piano) / 
+[My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Piano) / 
+[Live Preview](https://mgearz.github.io/freeCodeCamp/Piano/)
