@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="Technical Documentation" />
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+
+    <body>
+        <nav id="navbar">
+            <header>Plex Naming Conventions</header>
+            <ul>
+                <li>
+                    <a class="nav-link" href="#Introduction">Introduction</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="#TV_Shows">TV Shows</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="#Movies">Movies</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="#Multi_Part_Movies">Multi-Part Movies</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="#Extra_Features">Extra Features</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="#Learn_More">Learn More</a>
+                </li>
+            </ul>
+        </nav>
+        <main id="main-doc">
+            <section class="main-section" id="Introduction">
+                <header>Introduction</header>
+                <article>
+                    <p>Learning to properly organize and name your video files is crucial for the best Plex experience. After all, it's Plex's built-in scanners that do all the heavy-lifting for you, automatically matching all the metadata. It's what makes Plex a top choice for Movie/TV Show fans alike, giving you your own personal Netflix-like experience. <i>(Minus the pesky content deletion)</i></p>
+                    <p>But it does have its limits, and if you don't take the time to properly name & organize your files, you'll be prone to mismatches and errors. And then you'll be stuck trying to manually match them, or even worse, having to fill out all the details one-by-one.</p>
+                    <code>NOTE: This guide is for file naming purposes only and assumes you have already set-up your Plex Media Server.</code>
+                    <p>Feel free to use the Navigation Bar to jump to whichever section applies to you. <b>Let's get started!</b></p>
+                </article>
+            </section>
+            <hr>
+            <section class="main-section" id="TV_Shows">
+                <header>TV Shows</header>
+                <article>
+                    <p>TV Shows should be kept in a folder called <b>"TV Shows"</b>, pretty self-explanatory huh? I mean, technically you can name it whatever you want as long as you point Plex to it, but the point is, it's best practice to separate it from your Movies and other media types.</p>
+                    <p>Then, within that folder you create a sub-folder for each show's name, followed by another sub-folder for each season.</p>
+                    <code><b>SYNTAX:</b> /TV Shows /Show Name (Year) /Season # <br>
+                    <b>EXAMPLE:</b> /TV Shows /The Office (2005) /Season 01</code>
+                    <p>Each individual video file should then be placed within its appropriate folder <i>(by season)</i> and named using the syntax below:</p>
+                    <code><b>SYNTAX:</b> /Show Name (Year) - s##e##.filetype <br>
+                    <b>EXAMPLE:</b> /The Office (2005) - s01e01.mp4</code>
+                    <p><i>(Note: s## = Season Number; e## = Episode Number)</i></p>
+                </article>
+            </section>
+            <hr>
+            <section class="main-section" id="Movies">
+                <header>Movies</header>
+                <article>
+                    <p>Movies should be kept in their own folder called "Movies". This helps Plex identify the media type vs other formats such as TV Shows.</p>
+                    <p>Unlike TV Shows, you can just place the movie file within this folder directly. The exception being if your movie is in <a href="#Multi_Part_Movies">Multiple Parts</a> or has <a href="#Extras">Extra Features</a>.</p>
+                    <h3>Option 1 (Movie Only)</h3>
+                    <code><b>SYNTAX:</b> /Movies /Movie Name (Year).filetype <br>
+                    <b>EXAMPLE:</b> /Movies /Tommy Boy (1995).mp4</code>
+                    <h3>Option 2 (Movie + Extra Features)</h3>
+                    <code><b>SYNTAX:</b> /Movies /Movie Name (Year) /Movie Name (Year).filetype + <a href="#Extra_Features">Extra Features</a> files <br>
+                    <b>EXAMPLE:</b> /Movies /Tommy Boy (1995) /Tommy Boy (1995).mp4 , Theatrical Trailer-trailer.mp4 ...</code>
+                </article>
+            </section>
+            <hr>
+            <section class="main-section" id="Multi_Part_Movies">
+                <header>Multi-Part Movies</header>
+                <article>
+                    <p>Sometimes movies are split into multiple parts. Usually this is due to file size, particularly for Blu-Ray Rips and 4K+ video. Instead of massive 50GB files, that some hard-drives cannot handle, it is split into multiple smaller files to make them more manageable.</p>
+                    <p>Luckily, Plex has a built-in way to play multi-part movies seamlessly. All you need to do is organize and name them properly:</p>
+                    <code><b>SYNTAX:</b> /Movies /Movie Name (Year) /Movie Name (Year)-pt#.filetype , Movie Name (Year)-pt#.filetype ... <br>
+                    <b>EXAMPLE:</b> /Movies /Alien (1979) /Alien (1979)-pt1.mp4 , Alien (1979)-pt2.mp4 ...</code>
+                </article>
+            </section>
+            <hr>
+            <section class="main-section" id="Extra_Features">
+                <header>Extra Features</header>
+                <article>
+                    <p>A lot home video releases (DVD/Blu-Ray) included Extra Features to complement the Main Feature. For us cinephiles, Plex allows us to display those right alongside our Movies.</p>
+                    <code><b>SYNTAX:</b> Descriptive Name -ExtraType.filetype</code>
+                    <h3>Extra Types</h3>
+                    <ul>
+                        <li>Behind the Scenes (-behindthescenes)</li>
+                        <li>Deleted Scenes (-deleted)</li>
+                        <li>Featurettes (-featurette)</li>
+                        <li>Interviews (-interview)</li>
+                        <li>Short Films (-short)</li>
+                        <li>Trailers/Previews (-trailer)</li>
+                        <li>Other Videos (-other)</li>
+                    </ul>
+                    <code><b>EXAMPLE:</b> /Movies /Spaceballs (1987) /Spaceballs The Documentary-featurette.mp4 , In Conversation with Mel Brooks-interview.mp4 ...</code>
+                </article>
+            </section>
+            <hr>
+            <section class="main-section" id="Learn_More">
+                <header>Learn More</header>
+                <article>
+                    <p>For more detailed information of file naming conventions, visit <a href="https://www.plexopedia.com/plex-media-server/general/organize-movie-files-plex/">Plexopedia</a>.</p>
+                    <p>To learn more Plex and how to set it up, visit their <a href="https://support.plex.tv/">Support Page</a></p>
+                    <p>Convert your Physical Collection to Digital:</p>
+                    <ul>
+                        <li>For DVD's: <a href="https://handbrake.fr/">Handbrake</a></li>
+                        <li>For Blu-Ray's: <a href="https://www.makemkv.com/">MakeMKV</a> (<a href="https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053">Beta Key</a>)</li>
+                    </ul>
+                </article>
+            </section>
+        </main>
+    </body>
+
+</html>
