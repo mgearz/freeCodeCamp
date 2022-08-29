@@ -80,3 +80,9 @@ Lesson 11: Learn Responsive Web Design by Building a Piano
 Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-responsive-web-design-by-building-a-piano) / 
 [My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Piano) / 
 [Live Preview](https://mgearz.github.io/freeCodeCamp/Piano/)
+
+8/29/22
+Challenge 3: Build a Technical Documentation Page
+Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page) / 
+[My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Tech-Doc) / 
+[Live Preview](https://mgearz.github.io/freeCodeCamp/Tech-Doc/)
