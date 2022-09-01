@@ -4,7 +4,9 @@ Lesson 12: Learn CSS Variables by Building a City Skyline -
 
 This project is the twelfth lesson in freeCodeCamp's "Responsive Web Design" Course.
 
-In this lesson, we used learned about CSS Variable to make a Responsive City Skyline design. At above 1000px displays, the skyline is vibrantly colored with a bright sunny sky. But when you scale the display down to below 1000px, the sky turns to night and all the buildings become shadowed out.
+In this lesson, we used CSS Variables to make a Responsive City Skyline design. At above 1000px displays, the skyline is vibrantly colored with a bright sunny sky. But when you scale the display down to below 1000px, the sky turns to night and all the buildings become shadowed out.
+
+We also learned about different types of gradients and all they can be used to create patterns.
 
 CSS:
     - CSS Variables
