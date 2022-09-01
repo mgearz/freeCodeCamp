@@ -87,7 +87,7 @@ Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-de
 [My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Tech-Doc) / 
 [Live Preview](https://mgearz.github.io/freeCodeCamp/Tech-Doc/)
 
-9/11/22
+9/1/22
 Lesson 12: Learn CSS Variables by Building a City Skyline
 Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-variables-by-building-a-city-skyline) / 
 [My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Skyline) / 
