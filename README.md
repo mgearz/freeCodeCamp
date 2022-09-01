@@ -86,3 +86,9 @@ Challenge 3: Build a Technical Documentation Page
 Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page) / 
 [My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Tech-Doc) / 
 [Live Preview](https://mgearz.github.io/freeCodeCamp/Tech-Doc/)
+
+9/11/22
+Lesson 12: Learn CSS Variables by Building a City Skyline
+Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-variables-by-building-a-city-skyline) / 
+[My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Skyline) / 
+[Live Preview](https://mgearz.github.io/freeCodeCamp/Skyline/)
