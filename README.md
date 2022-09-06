@@ -92,3 +92,9 @@ Lesson 12: Learn CSS Variables by Building a City Skyline
 Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-variables-by-building-a-city-skyline) / 
 [My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Skyline) / 
 [Live Preview](https://mgearz.github.io/freeCodeCamp/Skyline/)
+
+9/6/22
+Lesson 13: Learn CSS Grid by Building a Magazine
+Source: [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-grid-by-building-a-magazine) / 
+[My Code](https://github.com/mgearz/freeCodeCamp/tree/main/Grid-Magazine) / 
+[Live Preview](https://mgearz.github.io/freeCodeCamp/Grid-Magazine/)
